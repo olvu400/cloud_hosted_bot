@@ -21,7 +21,7 @@ bot.on('message', message=>{
             message.channel.send('Oh shit hoorde ik daar merch, ja dat hoorde ik goed. Ga nu naar https://knolpower.nl/ en haal je kanker vette merchandise van Enzo Kanker.');
             break;
         case 'knolpower':
-            message.channel.send("JAAAA BROEDER KNOLPOWER");
+            message.channel.send("JAAAA BROEDER KNOLPOWER!!");
             break;
     }
 })
